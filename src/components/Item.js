@@ -19,6 +19,6 @@ function Item({ name, category }) {
       </button>
     </li>
   );
-}
+}  
 
 export default Item;
